@@ -2,8 +2,8 @@
 ## Description
 This project conducts exploratory data analysis on a tourism dataset to identify key trends, patterns, and insights regarding customer behavior, revenue, seasonal effects, and booking preferences.
 
---
-## Dataset Overview: This dataset contains columns
+## Dataset Overview
+This dataset contains columns
 `Date`
 `Customer ID`
 `Tour Package`
@@ -14,7 +14,6 @@ This project conducts exploratory data analysis on a tourism dataset to identify
 `Season`
 `Booking Channel`
 
---
 ## Analysis Goals
 - Identify top destinations and popular packages
 - Track monthly and seasonal trends
@@ -22,12 +21,10 @@ This project conducts exploratory data analysis on a tourism dataset to identify
 - Analyze revenue generation over time
 - Understand the impact of booking channels and types
 
---
 ## Tools used
 - Excel: PivotTables, charts, formulas
 - VS code: Pyhton Analysis, Pandas, Matplotlib,Seaborn
 
---
 ## Key Insights
 - Top Destination: Mole National Park brought the most revenue annually.
 -	Repeat Customers: Account for 64% of revenue, indicating strong loyalty.
@@ -35,7 +32,6 @@ This project conducts exploratory data analysis on a tourism dataset to identify
 -	Booking Channels: Travel Agencies dominates with 27% of all sales with Online (21%) and Websites (20%)
 - Booking Type: Customers prefered Private Tours to all other booking types
 
---
 ## Getting Started
 Excel Users
 1.	Open the tourism_excel.xlsx file
@@ -45,7 +41,6 @@ Python Users (Optional)
 1.	Run the tourism_analysis.py file
 2.	Install required libraries: pip install pandas matplotlib seaborn
 
---
 ## Contact
 For questions or contributions, feel free to reach out
 Email: yayradoepe@gmail.com
