@@ -38,8 +38,10 @@ Excel Users
 2.	Explore PivotTables and charts already set up for analysis
    
 Python Users (Optional)
-1.	Run the tourism_analysis.py file
-2.	Install required libraries: pip install pandas matplotlib seaborn
+1. Create your virtual environment (python -m venv .venv)
+2. Activate your virtual environment (.venv\Scripts\activate)
+3.	Install required libraries: pip install pandas matplotlib seaborn
+4.	Run the Tourism_Analysis.ipynb
 
 ## Contact
 For questions or contributions, feel free to reach out
