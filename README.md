@@ -34,7 +34,7 @@ This dataset contains columns
 
 ## Getting Started
 Excel Users
-1.	Open the tourism_excel.xlsx file
+1.	Open the Tourism_Data.xlsx file
 2.	Explore PivotTables and charts already set up for analysis
    
 Python Users (Optional)
