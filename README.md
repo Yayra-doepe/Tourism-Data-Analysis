@@ -43,8 +43,8 @@ Python Users (Optional)
 3.	Install required libraries: pip install pandas matplotlib seaborn
 4.	Run the Tourism_Analysis.ipynb
 
-##Dashboard
-![Dashboard Preview] <img width="1287" height="1295" alt="Tourism Dashboard" src="https://github.com/user-attachments/assets/bfc4beb9-b9eb-441f-bbaf-7c85d1e43da6" />
+## Dashboard
+<img width="1287" height="1295" alt="Tourism Dashboard" src="https://github.com/user-attachments/assets/bfc4beb9-b9eb-441f-bbaf-7c85d1e43da6" />
 
 ## Contact
 For questions or contributions, feel free to reach out
