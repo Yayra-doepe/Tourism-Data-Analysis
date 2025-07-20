@@ -48,8 +48,8 @@ Python Users (Optional)
 
 ## Contact
 For questions or contributions, feel free to reach out
-Email: yayradoepe@gmail.com
-LinkedIn:www.linkedin.com/in/bless-ativor
+- Email: yayradoepe@gmail.com
+- LinkedIn:www.linkedin.com/in/bless-ativor
 
 
 
